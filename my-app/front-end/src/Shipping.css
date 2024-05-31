@@ -1,0 +1,36 @@
+.shipping{
+    background-color: whitesmoke;
+}
+.shipping  button {
+    background: #f0c14b;
+    border-radius: 2px;
+    width: 150px;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color:#a88734 #9c7e31 #846a29 ;
+    color: #111;
+}
+.shipping-form input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  .shipping-container {
+    width: 50%;
+    margin: 0 auto;
+  }
+  
+  .shipping-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .shipping-form div {
+    margin-bottom: 20px;
+  }
+  
+  .shipping-form label {
+    font-weight: bold;
+  }
